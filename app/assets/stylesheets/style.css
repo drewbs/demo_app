@@ -1,0 +1,24 @@
+body {
+  background-image: url(/assets/food.png);
+  font-family: 'Lato', sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  margin-top: 40px;
+  width: 500px;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  padding: 8px;
+}
+
+th {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+td {
+  font-size: 14px;
+  font-family: 'Lato';
+  padding: 14px 14px 0px 0px;
+}
